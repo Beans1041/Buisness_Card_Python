@@ -1,10 +1,10 @@
 # Website referenced : https://realpython.com/beginners-guide-python-turtle/#customizing-in-one-line
 #Website referenced for Colors: https://www.webucator.com/article/python-color-constants-module/
 
-# Pablo Garcia-Rico
+# P.G.R
 # Game and Simulation Programing
 #2/18-20/23
-# Gooch
+# Proffesor Gooch
 
 import turtle
 
