@@ -3,10 +3,10 @@
 #Website refrenced for colored text: https://www.studytonight.com/python-howtos/how-to-print-colored-text-in-python
 #Website refrenced for ANSII colors: https://www.geeksforgeeks.org/print-colors-python-terminal/ 
 
-# Pablo Garcia-Rico
+# P.G.R
 # Game and Simulation Programing
 #2/18-20/23
-# Gooch
+# Proffesor Gooch
 
 import turtle
 
